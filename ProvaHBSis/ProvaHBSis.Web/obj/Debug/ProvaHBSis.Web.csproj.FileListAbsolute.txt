@@ -1,0 +1,23 @@
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProvaHBSis.Web\bin\ProvaHBSis.Web.dll.config
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProvaHBSis.Web\bin\ProvaHBSis.Web.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProvaHBSis.Web\bin\ProvaHBSis.Web.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.csprojResolveAssemblyReference.cache
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.dll.config
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.pdb
+C:\Users\Felipe\Desktop\CLONE HBSIS\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.dll.config
+C:\Users\Felipe\Desktop\CLONE HBSIS\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.dll
+C:\Users\Felipe\Desktop\CLONE HBSIS\ProvaHBSis\ProvaHBSis.Web\bin\ProvaHBSis.Web.pdb
+C:\Users\Felipe\Desktop\CLONE HBSIS\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\CLONE HBSIS\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.dll
+C:\Users\Felipe\Desktop\CLONE HBSIS\ProvaHBSis\ProvaHBSis.Web\obj\Debug\ProvaHBSis.Web.pdb

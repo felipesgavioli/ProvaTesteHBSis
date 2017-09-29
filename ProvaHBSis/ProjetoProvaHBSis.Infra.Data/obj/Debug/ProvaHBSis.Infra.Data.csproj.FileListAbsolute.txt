@@ -1,0 +1,70 @@
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll.config
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.Migrations.ProvaHBSis.resources
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll.config
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.Migrations.ProvaHBSis.resources
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll.config
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.Migrations.script_Inicial_ProvaHBSis_SQL.resources
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll.config
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.Migrations.script_Inicial_ProvaHBSis_SQL.resources
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll.config
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Infra.Data.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.Migrations.script_Inicial_ProvaHBSis_SQL.resources
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\OLD\ProvaHBSis\ProjetoProvaHBSis.Infra.Data\obj\Debug\ProvaHBSis.Infra.Data.pdb

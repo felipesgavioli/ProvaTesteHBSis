@@ -1,0 +1,23 @@
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Domain\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Domain\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Domain\obj\Debug\ProvaHBSis.Domain.dll
+C:\Users\Sebastião Fonseca\Downloads\ddd\ProjetoModeloDDD.Domain\obj\Debug\ProvaHBSis.Domain.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\bin\Debug\ProvaHBSis.Domain.dll.config
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\obj\Debug\ProvaHBSis.Domain.dll
+C:\Users\Felipe\Desktop\0 - ENTREVISTA HBSIS\NOVO - ProvaHBSis-master\ProvaHBSis-master\ProjetoProvaHBSis.Domain\obj\Debug\ProvaHBSis.Domain.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\bin\Debug\ProvaHBSis.Domain.dll.config
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\bin\Debug\ProvaHBSis.Domain.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\bin\Debug\ProvaHBSis.Domain.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.xml
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\obj\Debug\ProvaHBSis.Domain.dll
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\obj\Debug\ProvaHBSis.Domain.pdb
+C:\Users\felipe.sgavioli\Desktop\Arquivos Felipe Sgavioli\0 - Entrevista\ProvaHBSis\ProjetoProvaHBSis.Domain\obj\Debug\ProvaHBSis.Domain.csprojResolveAssemblyReference.cache

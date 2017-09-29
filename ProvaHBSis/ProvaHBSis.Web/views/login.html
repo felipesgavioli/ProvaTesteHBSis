@@ -1,0 +1,22 @@
+﻿<div class="center-block" style="width:400px;">
+    <form class="form-login" role="form">
+        <fieldset>
+            <legend class="form-login-heading">Login</legend>
+
+
+            <div class="form-group">
+                <label for="nome">Nome</label>
+                <input type="text" name="nome" class="form-control" placeholder="Nome usuário" data-ng-model="usuario.Nome" required autofocus>
+            </div>
+
+
+            <div class="form-group">
+                <label for="senha">Senha</label>
+                <input type="password" name="senha" class="form-control" placeholder="Senha" data-ng-model="usuario.Senha" required>
+            </div>
+
+
+            <button ng-disabled="usuario.Nome == '' || usuario.Senha == ''" class="btn btn-primary btn-block" type="submit" data-ng-click="login()">Entrar</button>
+        </fieldset>
+    </form>
+</div>
